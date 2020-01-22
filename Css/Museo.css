@@ -1,0 +1,56 @@
+body 		{
+
+				font-family: 'Ubuntu', sans-serif;	
+
+			}
+
+#MuBlock	{
+
+				position: absolute;
+				top: 210px;
+				left: 180px;
+
+			}
+#MuTitle	{
+
+				font-weight: bold;
+				font-size: 30px;
+				margin-bottom: 50px;
+
+			}
+#MuDesc		{
+
+				display: block;
+				margin-top: 25px;
+
+			}
+
+#MuOr		{
+				margin-top: 50px;
+				display: block;
+				font-weight: bold;
+				font-size: 22px;
+
+			}
+#MuLaImg	{
+
+				position: absolute;
+				top: 300px;
+				left: 700px;
+
+			}
+
+#MuPLBlock	{
+
+				position: absolute;
+				top: 900px;
+			}
+
+#MuPLImg	{
+
+				position: absolute;
+				top: 1320px;
+				left: 880px;
+				height: 350px;
+
+			}

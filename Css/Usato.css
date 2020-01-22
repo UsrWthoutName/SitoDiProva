@@ -1,0 +1,89 @@
+body				{
+			
+						font-family: 'Ubuntu', sans-serif;
+			
+					}
+		
+#UsTitle			{
+		
+						font-weight: bold;	 
+						font-size: 30px;
+						position: absolute;
+						top: 210px;
+						left: 180px;	
+		
+					}
+		
+#UsSubTitle 		{
+		
+						font-weight: bold;	 
+						font-size: 27px;
+						position: absolute;
+						top: 900px;
+						left: 180px;	
+		
+					}
+
+
+#UsSubTitle2		{
+		
+						font-weight: bold;	 
+						font-size: 27px;
+						position: absolute;
+						top: 1250px;
+						left: 180px;	
+		
+					}
+
+		
+#UsImg				{
+		
+						position: absolute;
+						display: block;
+						top: 270px;
+						left: 180px;
+						height: 60%;
+		
+					}
+#UsDesc1			{
+		
+						display: block;
+						position: absolute;
+						top: 500px;
+						left: 1150px;
+						text-align: justify;	 
+						font-size: 17px;
+		
+					}
+
+#UsCetrPreOwnLogo	{
+
+						position: absolute;
+						top: 270px;
+						left: 1250px;
+
+					}
+
+#UsReq 				{
+			
+						position: absolute;
+						display: block;
+						top: 950px;
+						left: 180px;
+			
+					}
+
+#UsLi 				{
+
+						margin-bottom: 30px;
+
+
+					}
+
+#UsTxt1				{
+
+						position: absolute;
+						top: 1320px;
+						left: 180px;
+
+					}

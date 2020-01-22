@@ -1,0 +1,98 @@
+body			{
+		
+					font-family: 'Roboto Condensed', sans-serif;
+				}
+		
+
+#Header			{
+					background-color: black;			
+					margin-top: -8px;					
+					margin-left: -8px;					
+					display: block;						
+					width: 100%;
+					position: absolute;		
+	
+					 		
+		
+				}
+				
+		
+	
+#Image			{
+					background-color: black;
+					width: 4%;							
+					margin-left: 35px;
+					margin-right: 85px;	
+	
+					margin-top: 10px;
+					margin-bottom: 10px;
+					display: inline;
+	
+					float: left;
+					
+					
+	
+				}
+	
+	
+#Btn li.a		{							/*BOTTONI*/
+	
+					color: white;				
+					display: inline;
+					float: left;	
+					background-color: black;
+					padding-top: 20px;
+					padding-left: 15px;
+					padding-right: 15px; 
+					position: relative;
+					text-transform: uppercase;		
+	
+							
+				}
+
+#Btn ul 		{		
+											/*TABELLA INTERNA BOTTONI*/
+					display:none;
+					list-style:none;
+					padding-top: 20px;
+					margin-left: -45px;
+
+
+	
+				}	
+	
+#Btn li.a:hover ul						/*MODIFICHE UL SE PUNTATORE SOPRA*/		
+				{
+					display:block;		
+
+	
+				}
+
+#Btn li.a:hover	{						/*MODIFICHE SU BOTTONE SE PUNTATORE SOPRA*/
+
+					cursor: pointer;
+					display: block;
+					background-color: black;
+					color: yellow;
+
+
+				}
+
+#Tab   			{
+					padding: 10px;
+					position: relative;
+					display: block;
+
+				}
+#Link			{
+
+					text-decoration: none; 
+					color: white;
+
+				}
+
+#Link:hover		{
+
+					color: yellow;
+
+				}

@@ -1,0 +1,51 @@
+body 			{
+
+					font-family: 'Ubuntu', sans-serif;	 
+						
+
+				}
+
+#AcBlock		{	
+					position: absolute;
+					top: 100px;
+					left: 200px;
+
+				}
+
+#AcCarBlock		{	
+					display: block;
+					position: relative;
+					margin-top: 200px; 
+
+
+				}
+
+#AcImg			{
+
+					display: inline-block;
+					height: 300px;
+					margin-bottom:10px;
+
+
+				}
+
+#AcTitle		{
+					text-align: center;
+					font-weight: bold;
+					font-size: 30px;
+
+				}
+
+#AcPdf			{
+					position: absolute;
+					text-align: center;
+					font-size: 23px;
+					background-color: #e8b407;
+					padding: 20px;
+					height: 30px;
+					margin-top: 65px;
+					text-decoration: none;
+					color: black;
+					left: 600px;
+
+				}

@@ -1,0 +1,35 @@
+body 		{
+
+				font-family: 'Ubuntu', sans-serif;
+
+			}
+
+#RiBlock	{
+
+				position: absolute;
+				top: 270px;
+				left: 180px;
+
+			}
+
+#RiTit		{
+
+				font-weight: bold;
+				font-size: 30px;
+				margin-bottom:	60px; 
+
+			}
+#RiTxt		{
+
+				margin-bottom: 100px;
+
+			}
+
+#RiImage	{
+
+				display: inline-block;
+				height: 450px;
+				margin-right: 200px;
+				margin-bottom: 80px;
+
+			}
